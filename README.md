@@ -5,7 +5,6 @@ Full Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Florida
-* 🖥️  See my portfolio at [Guillermo's Github](http://https://github.com/Ghasb001)
 * ✉️  You can contact me at [hasbun.guillermo@gmail.com](mailto:hasbun.guillermo@gmail.com)
 * 🧠  I'm learning Typescript & Docker
 * 🤝  I'm open to collaborating on New and interesting projects
